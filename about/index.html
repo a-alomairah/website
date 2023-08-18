@@ -1,0 +1,186 @@
+
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <title>About | My Personal Site</title>
+    <meta name="description"
+        content="Hello there! 👋 I&rsquo;m Abdulrahman Alomairah, a passionate software engineer with a strong interest in open-source projects and cybersecurity. With a background in software engineering and a thirst for knowledge, I&rsquo;ve delved into various aspects of the tech world, honing my skills and expertise along the way.
+Background and Education I hold a degree in Software Engineering, which has provided me with a solid foundation in designing, developing, and maintaining software solutions.">
+    <link rel="canonical" href="https://toukaktus.github.io/about/" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css">
+    
+    <link rel="stylesheet" href="https://toukaktus.github.io/scss/style.min.aa7209164f013c6883aa54384ea45a46e582eacf9a17e9565badebd557dd1059.css">
+
+    <meta property="og:title" content="About" />
+<meta property="og:description" content="Hello there! 👋 I&rsquo;m Abdulrahman Alomairah, a passionate software engineer with a strong interest in open-source projects and cybersecurity. With a background in software engineering and a thirst for knowledge, I&rsquo;ve delved into various aspects of the tech world, honing my skills and expertise along the way.
+Background and Education I hold a degree in Software Engineering, which has provided me with a solid foundation in designing, developing, and maintaining software solutions." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://toukaktus.github.io/about/" /><meta property="article:section" content="" />
+<meta property="article:published_time" content="2023-08-17T16:39:01+03:00" />
+<meta property="article:modified_time" content="2023-08-17T16:39:01+03:00" /><meta property="og:site_name" content="My personal site" />
+
+
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="About"/>
+<meta name="twitter:description" content="Hello there! 👋 I&rsquo;m Abdulrahman Alomairah, a passionate software engineer with a strong interest in open-source projects and cybersecurity. With a background in software engineering and a thirst for knowledge, I&rsquo;ve delved into various aspects of the tech world, honing my skills and expertise along the way.
+Background and Education I hold a degree in Software Engineering, which has provided me with a solid foundation in designing, developing, and maintaining software solutions."/>
+
+    
+    
+    
+
+</head><body><nav class="navbar is-light" role="navigation">
+    <div class="container">
+        <div class="navbar-brand">
+            <a href="/" title="home" class="navbar-item">
+                <span class="logo">
+                    <h1>My Personal Site</h1>
+                </span>
+            </a>
+
+            
+            <a id="theme-toggle" class="theme-toggle" href="#">
+                <img src="https://toukaktus.github.iosvg/sun.svg" alt="sun icon" class="theme-icon" />
+            </a>
+
+            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+
+        <div class="navbar-menu">
+            <div class="navbar-start">
+                
+                <a href="/about" class="navbar-item">About</a>
+                
+                <a href="/post" class="navbar-item">Blog</a>
+                
+                <a href="/categories" class="navbar-item">Categories</a>
+                
+                <a href="/alomairah_resume.pdf" class="navbar-item">Resume</a>
+                
+            </div>
+
+        </div>
+        <div class="search">
+            <div id="fastSearch">
+                <input id="searchInput" tabindex="0" placeholder="Search..">
+                <ul id="searchResults">
+
+                </ul>
+            </div>
+            <a id="search-btn" style="display: inline-block;" href="# ">
+                <div class="icon-search"><svg class="search-svg" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg></div>
+            </a>
+        </div>
+
+        <script src="/js/fuse.min.js"></script> 
+        <script src="/js/fastsearch.js"></script>
+
+    </div>
+</nav>
+
+<script>
+    
+    document.addEventListener('DOMContentLoaded', function() {
+        var burger = document.querySelector('.navbar-burger');
+        burger.addEventListener('click', function() {
+            burger.classList.toggle('is-active');
+            document.querySelector('.navbar-menu').classList.toggle('is-active');
+        });
+    });
+
+    
+    function setTheme(theme) {
+        let body = document.body;
+        let themeIcon = document.querySelector(".theme-icon");
+        if (theme === "dark") {
+            body.classList.add("dark-mode");
+            themeIcon.src = "https:\/\/toukaktus.github.iosvg/moon.svg";
+            themeIcon.alt = "moon icon";
+        } else {
+            body.classList.remove("dark-mode");
+            themeIcon.src = "https:\/\/toukaktus.github.iosvg/sun.svg";
+            themeIcon.alt = "sun icon";
+        }
+        
+        localStorage.setItem("theme", theme);
+    }
+
+    
+    let theme = localStorage.getItem("theme") || "light";
+    const isDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+    if (isDarkMode) {
+        
+        setTheme('dark');
+
+    } else {
+        
+        setTheme('light');
+    }
+    setTheme(theme);
+
+    
+    document.getElementById("theme-toggle").addEventListener("click", function() {
+        if (theme === "light") {
+            theme = "dark";
+        } else {
+            theme = "light";
+        }
+        setTheme(theme);
+    });
+
+
+
+</script>
+
+</header><main>
+<div class="single-container  is-centered">
+    <div class="archive">
+        <h1 class="title is-1">About</h1>
+        <div class="content about-content">
+            <p>Hello there! 👋 I&rsquo;m Abdulrahman Alomairah, a passionate software engineer with a strong interest in open-source projects and cybersecurity. With a background in software engineering and a thirst for knowledge, I&rsquo;ve delved into various aspects of the tech world, honing my skills and expertise along the way.</p>
+<h2 id="background-and-education">Background and Education</h2>
+<p>I hold a degree in Software Engineering, which has provided me with a solid foundation in designing, developing, and maintaining software solutions. My academic journey equipped me with a deep understanding of programming languages and software architecture principles.</p>
+<h2 id="passion-for-open-source">Passion for Open Source</h2>
+<p>My love for open-source software goes beyond just using it - I actively contribute to various open-source projects. I believe in the power of collaboration and community-driven development. By contributing to open-source, I&rsquo;m not only giving back to the community but also continuously improving my skills and staying updated with the latest technologies.</p>
+<h2 id="cybersecurity-enthusiast">Cybersecurity Enthusiast</h2>
+<p>Cybersecurity has always fascinated me, and I&rsquo;ve taken my interest to the next level by engaging in cybersecurity courses and certifications. I&rsquo;ve completed courses such as Penetration Testing Student (PTS) and Web Application Penetration Testing (WAPT) at INE. These courses have equipped me with practical skills in identifying vulnerabilities and securing web applications.</p>
+<h2 id="diverse-coding-proficiency">Diverse Coding Proficiency</h2>
+<p>I&rsquo;m fluent in a variety of programming languages, including:</p>
+<ul>
+<li><strong>Python</strong>: I can develop versatile scripts, applications, and automation tools using Python.</li>
+<li><strong>Java</strong>: My knowledge of Java allows me to build robust and efficient backend systems.</li>
+<li><strong>JavaScript</strong>: I&rsquo;m adept at crafting interactive and dynamic web experiences using JavaScript.</li>
+</ul>
+<h2 id="web-development-expertise">Web Development Expertise</h2>
+<p>Web development is another domain where I&rsquo;ve made my mark. From designing elegant user interfaces to developing backend functionalities, I bring a comprehensive skill set to web development projects. I&rsquo;m experienced in using HTML, CSS, JavaScript, and various frameworks to create engaging and responsive websites.</p>
+<h2 id="current-endeavors">Current Endeavors</h2>
+<p>At present, I&rsquo;m dedicatedly working towards earning the eJPTv2 (eLearnSecurity Junior Penetration Tester) and eWPT (eLearnSecurity Web Application Penetration Tester) certifications. These certifications reflect my commitment to becoming a well-rounded cybersecurity professional, capable of identifying and mitigating security threats in various digital environments.</p>
+<p>Feel free to explore my coding projects on <a href="https://github.com/toukaktus">GitHub</a>, where you can find examples of my work and contributions to various repositories.</p>
+<p>If you&rsquo;re interested in learning more about my professional background, you can also find my resume on my personal website: <a href="https://toukaktus.github.io/alomairah_resume.pdf">Resume</a>.</p>
+<p>Thank you for visiting my profile and getting to know a bit about me. If you share similar interests or if there&rsquo;s a collaborative opportunity you&rsquo;d like to explore, feel free to reach out. Let&rsquo;s connect, learn, and build amazing things together!</p>
+<p>Contact Information:</p>
+<p><a href="mailto:a.alomairah9@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/abdulrahman-alomairah-36262b1b9/">LinkedIn</a> | <a href="https://github.com/toukaktus">Github</a></p>
+
+        </div>
+    </div>
+   
+</div>
+
+        </main><footer class="footer">
+    <div class="content has-text-centered">
+    <span>&copy; 2023 <a href="https://toukaktus.github.io">My Personal Site</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" target="_blank">Hugo</a> &
+        <a href="https://github.com/hotjuicew/hugo-JuiceBar" target="_blank">JuiceBar</a>
+    </span>
+    </div>
+  </footer></body>
+</html>
+
