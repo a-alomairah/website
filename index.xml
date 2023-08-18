@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Personal Site</title>
-    <link>https://toukaktus.github.io/</link>
+    <link>https://toukaktus.github.io/website/</link>
     <description>Recent content on My Personal Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Aug 2023 16:48:37 +0300</lastBuildDate><atom:link href="https://toukaktus.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 17 Aug 2023 16:48:37 +0300</lastBuildDate><atom:link href="https://toukaktus.github.io/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First</title>
-      <link>https://toukaktus.github.io/post/first/</link>
+      <link>https://toukaktus.github.io/website/post/first/</link>
       <pubDate>Thu, 17 Aug 2023 16:48:37 +0300</pubDate>
       
-      <guid>https://toukaktus.github.io/post/first/</guid>
+      <guid>https://toukaktus.github.io/website/post/first/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://toukaktus.github.io/about/</link>
+      <link>https://toukaktus.github.io/website/about/</link>
       <pubDate>Thu, 17 Aug 2023 16:39:01 +0300</pubDate>
       
-      <guid>https://toukaktus.github.io/about/</guid>
+      <guid>https://toukaktus.github.io/website/about/</guid>
       <description>Hello there! 👋 I&amp;rsquo;m Abdulrahman Alomairah, a passionate software engineer with a strong interest in open-source projects and cybersecurity. With a background in software engineering and a thirst for knowledge, I&amp;rsquo;ve delved into various aspects of the tech world, honing my skills and expertise along the way.
 Background and Education I hold a degree in Software Engineering, which has provided me with a solid foundation in designing, developing, and maintaining software solutions.</description>
     </item>
