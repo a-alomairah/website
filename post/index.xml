@@ -6,7 +6,17 @@
     <description>Recent content in Posts on My Personal Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Aug 2023 16:48:37 +0300</lastBuildDate><atom:link href="https://toukaktus.github.io/website/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Aug 2023 00:51:04 +0300</lastBuildDate><atom:link href="https://toukaktus.github.io/website/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NixOS: Revolutionizing Linux through Reproducibility and Unbreakable Configuration</title>
+      <link>https://toukaktus.github.io/website/post/nixos/</link>
+      <pubDate>Sun, 20 Aug 2023 00:51:04 +0300</pubDate>
+      
+      <guid>https://toukaktus.github.io/website/post/nixos/</guid>
+      <description>In the vast realm of Linux distributions, NixOS emerges as a game-changer, defying conventional practices with its novel approach to system configuration and package management. It champions declarative configuration, ensuring atomic upgrades, and employs content-addressable package management for unparalleled reproducibility and system integrity.
+Declarative Configuration for Unbreakable Systems At the core of NixOS lies the concept of declarative system configuration. This paradigm shift empowers users to define their system&amp;rsquo;s desired state using a single configuration file.</description>
+    </item>
+    
     <item>
       <title>First</title>
       <link>https://toukaktus.github.io/website/post/first/</link>
@@ -14,6 +24,33 @@
       
       <guid>https://toukaktus.github.io/website/post/first/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>My First CTF Style LAB</title>
+      <link>https://toukaktus.github.io/website/post/my-first-ctf-style-lab/</link>
+      <pubDate>Mon, 24 Jul 2023 21:09:08 +0300</pubDate>
+      
+      <guid>https://toukaktus.github.io/website/post/my-first-ctf-style-lab/</guid>
+      <description>On 10:09 PM the 24th of July 2023. I was solving a LAB related to my Penetration Testing Student (PTS) course. After exploiting a vulnerablitiy in a windows machine, I have found my first flag.txt file in a simulated environment. It made me happy. From that point onwards, I think the field of Cybersecurity might be really interesting to me. </description>
+    </item>
+    
+    <item>
+      <title>Audio over GIFs</title>
+      <link>https://toukaktus.github.io/website/post/twtaudio/</link>
+      <pubDate>Wed, 19 Jul 2023 23:46:17 +0300</pubDate>
+      
+      <guid>https://toukaktus.github.io/website/post/twtaudio/</guid>
+      <description>For multiple reasons, I decided to code my own Bash script that records your microphone and then it plays it over a GIF loop for the entire duration of the audio. This is to be able to send it as a .mp4 video. The reasons behind that is that as an Andriod user, Apps like Twitter (X) don&amp;rsquo;t implement features to Andriod users like the Audio tweet. Yes! This was my main motivation for this code.</description>
+    </item>
+    
+    <item>
+      <title>Messing Around With Stable Diffusion</title>
+      <link>https://toukaktus.github.io/website/post/messing-around-with-stable-diffusion/</link>
+      <pubDate>Sat, 15 Jul 2023 23:27:43 +0300</pubDate>
+      
+      <guid>https://toukaktus.github.io/website/post/messing-around-with-stable-diffusion/</guid>
+      <description>I&amp;rsquo;ve succesfully Installed Stable Diffusion on my server. I&amp;rsquo;ve been messing around with it for the past week. It&amp;rsquo;s really interesting!. The modes I have tried so far are txt2img and img2img. You can train the model yourself. you can install LORA checkpoints and many more. It would be interesting to revisit this again and explore furthermore. </description>
     </item>
     
   </channel>

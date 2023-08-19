@@ -2,19 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://toukaktus.github.io/website/post/first/</loc>
-    <lastmod>2023-08-17T16:48:37+03:00</lastmod>
+    <loc>https://toukaktus.github.io/website/categories/</loc>
+    <lastmod>2023-08-20T00:51:04+03:00</lastmod>
   </url><url>
     <loc>https://toukaktus.github.io/website/</loc>
-    <lastmod>2023-08-17T16:48:37+03:00</lastmod>
+    <lastmod>2023-08-20T00:51:04+03:00</lastmod>
+  </url><url>
+    <loc>https://toukaktus.github.io/website/post/nixos/</loc>
+    <lastmod>2023-08-20T00:51:04+03:00</lastmod>
+  </url><url>
+    <loc>https://toukaktus.github.io/website/categories/operating-systems/</loc>
+    <lastmod>2023-08-20T00:51:04+03:00</lastmod>
   </url><url>
     <loc>https://toukaktus.github.io/website/post/</loc>
+    <lastmod>2023-08-20T00:51:04+03:00</lastmod>
+  </url><url>
+    <loc>https://toukaktus.github.io/website/post/first/</loc>
     <lastmod>2023-08-17T16:48:37+03:00</lastmod>
   </url><url>
     <loc>https://toukaktus.github.io/website/about/</loc>
     <lastmod>2023-08-17T16:39:01+03:00</lastmod>
   </url><url>
-    <loc>https://toukaktus.github.io/website/categories/</loc>
+    <loc>https://toukaktus.github.io/website/post/my-first-ctf-style-lab/</loc>
+    <lastmod>2023-07-24T21:09:08+03:00</lastmod>
+  </url><url>
+    <loc>https://toukaktus.github.io/website/post/twtaudio/</loc>
+    <lastmod>2023-07-19T23:46:17+03:00</lastmod>
+  </url><url>
+    <loc>https://toukaktus.github.io/website/post/messing-around-with-stable-diffusion/</loc>
+    <lastmod>2023-07-15T23:27:43+03:00</lastmod>
   </url><url>
     <loc>https://toukaktus.github.io/website/tags/</loc>
   </url>
