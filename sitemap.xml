@@ -3,10 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://toukaktus.github.io/website/categories/</loc>
-    <lastmod>2023-08-20T00:51:04+03:00</lastmod>
+    <lastmod>2023-08-20T05:06:24+03:00</lastmod>
+  </url><url>
+    <loc>https://toukaktus.github.io/website/gallery/</loc>
+    <lastmod>2023-08-20T05:06:24+03:00</lastmod>
+  </url><url>
+    <loc>https://toukaktus.github.io/website/categories/gallery/</loc>
+    <lastmod>2023-08-20T05:06:24+03:00</lastmod>
+  </url><url>
+    <loc>https://toukaktus.github.io/website/gallery/hw_pics/</loc>
+    <lastmod>2023-08-20T05:06:24+03:00</lastmod>
   </url><url>
     <loc>https://toukaktus.github.io/website/</loc>
-    <lastmod>2023-08-20T00:51:04+03:00</lastmod>
+    <lastmod>2023-08-20T05:06:24+03:00</lastmod>
+  </url><url>
+    <loc>https://toukaktus.github.io/website/contact/</loc>
+    <lastmod>2023-08-20T03:57:26+03:00</lastmod>
   </url><url>
     <loc>https://toukaktus.github.io/website/post/nixos/</loc>
     <lastmod>2023-08-20T00:51:04+03:00</lastmod>
@@ -29,8 +41,16 @@
     <loc>https://toukaktus.github.io/website/post/twtaudio/</loc>
     <lastmod>2023-07-19T23:46:17+03:00</lastmod>
   </url><url>
+    <loc>https://toukaktus.github.io/website/categories/code/</loc>
+    <lastmod>2023-07-19T23:46:17+03:00</lastmod>
+  </url><url>
     <loc>https://toukaktus.github.io/website/post/messing-around-with-stable-diffusion/</loc>
     <lastmod>2023-07-15T23:27:43+03:00</lastmod>
+  </url><url>
+    <loc>https://toukaktus.github.io/website/gallery/test-gallery/</loc>
+    <lastmod>2002-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://toukaktus.github.io/website/gallery/</loc>
   </url><url>
     <loc>https://toukaktus.github.io/website/tags/</loc>
   </url>
