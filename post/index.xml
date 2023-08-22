@@ -6,7 +6,17 @@
     <description>Recent content in Posts on My Personal Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Aug 2023 00:51:04 +0300</lastBuildDate><atom:link href="https://toukaktus.github.io/website/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Aug 2023 07:56:47 +0300</lastBuildDate><atom:link href="https://toukaktus.github.io/website/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Power of Preparedness: Why a UPS is a Lifesaver for Home Servers</title>
+      <link>https://toukaktus.github.io/website/post/ups/</link>
+      <pubDate>Tue, 22 Aug 2023 07:56:47 +0300</pubDate>
+      
+      <guid>https://toukaktus.github.io/website/post/ups/</guid>
+      <description>The Power of Preparedness: Why a UPS is a Lifesaver for Home Servers Lessons from a Power Outage Misadventure
+We&amp;rsquo;ve all heard the saying, &amp;ldquo;With great power comes great responsibility.&amp;quot; But what about, &amp;ldquo;With great server hosting comes great problems&amp;rdquo;? As home server enthusiasts, we embark on a journey filled with excitement and challenges, seeking the thrill of managing our own services. However, yesterday&amp;rsquo;s power outage served as a poignant reminder that hosting our own services also means hosting our own problems.</description>
+    </item>
+    
     <item>
       <title>NixOS: Revolutionizing Linux through Reproducibility and Unbreakable Configuration</title>
       <link>https://toukaktus.github.io/website/post/nixos/</link>

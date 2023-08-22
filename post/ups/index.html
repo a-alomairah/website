@@ -1,0 +1,265 @@
+
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <title>The Power of Preparedness: Why a UPS is a Lifesaver for Home Servers | My Personal Site</title>
+    <meta name="description"
+        content="The Power of Preparedness: Why a UPS is a Lifesaver for Home Servers Lessons from a Power Outage Misadventure
+We&rsquo;ve all heard the saying, &ldquo;With great power comes great responsibility.&quot; But what about, &ldquo;With great server hosting comes great problems&rdquo;? As home server enthusiasts, we embark on a journey filled with excitement and challenges, seeking the thrill of managing our own services. However, yesterday&rsquo;s power outage served as a poignant reminder that hosting our own services also means hosting our own problems.">
+    <link rel="canonical" href="https://toukaktus.github.io/website/post/ups/" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css">
+    
+    <link rel="stylesheet" href="https://toukaktus.github.io/website/scss/style.min.58304da8cfda4ac75012daad5b9d9967e8e0ae3b30992482a4d81271549c8900.css">
+
+    <meta property="og:title" content="The Power of Preparedness: Why a UPS is a Lifesaver for Home Servers" />
+<meta property="og:description" content="The Power of Preparedness: Why a UPS is a Lifesaver for Home Servers Lessons from a Power Outage Misadventure
+We&rsquo;ve all heard the saying, &ldquo;With great power comes great responsibility.&quot; But what about, &ldquo;With great server hosting comes great problems&rdquo;? As home server enthusiasts, we embark on a journey filled with excitement and challenges, seeking the thrill of managing our own services. However, yesterday&rsquo;s power outage served as a poignant reminder that hosting our own services also means hosting our own problems." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://toukaktus.github.io/website/post/ups/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2023-08-22T07:56:47+03:00" />
+<meta property="article:modified_time" content="2023-08-22T07:56:47+03:00" />
+
+
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="The Power of Preparedness: Why a UPS is a Lifesaver for Home Servers"/>
+<meta name="twitter:description" content="The Power of Preparedness: Why a UPS is a Lifesaver for Home Servers Lessons from a Power Outage Misadventure
+We&rsquo;ve all heard the saying, &ldquo;With great power comes great responsibility.&quot; But what about, &ldquo;With great server hosting comes great problems&rdquo;? As home server enthusiasts, we embark on a journey filled with excitement and challenges, seeking the thrill of managing our own services. However, yesterday&rsquo;s power outage served as a poignant reminder that hosting our own services also means hosting our own problems."/>
+
+    
+    
+    
+
+</head><body><nav class="navbar is-light" role="navigation">
+    <div class="container">
+        <div class="navbar-brand">
+		<a href="https://toukaktus.github.io/website" title="home" class="navbar-item">
+                <span class="logo">
+                    <h1>My Personal Site</h1>
+                </span>
+            </a>
+
+            
+            <a id="theme-toggle" class="navbar-item" href="#">
+                <img src="https://toukaktus.github.io/websitesvg/sun.svg" alt="sun icon" class="theme-icon" />
+            </a>
+
+            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+
+        <div class="navbar-menu">
+            <div class="navbar-start">
+                
+                <a href="/website/about" class="navbar-item">About</a>
+                
+                <a href="/website/post" class="navbar-item">Blog</a>
+                
+                <a href="/website/categories" class="navbar-item">Categories</a>
+                
+                <a href="/website/contact" class="navbar-item">Contact</a>
+                
+                <a href="/website/gallery" class="navbar-item">Gallery</a>
+                
+                <a href="/website/alomairah_resume.pdf" class="navbar-item">Resume</a>
+                
+            </div>
+
+        </div>
+        <div class="search">
+            <div id="fastSearch">
+                <input id="searchInput" tabindex="0" placeholder="Search..">
+                <ul id="searchResults">
+
+                </ul>
+            </div>
+            <a id="search-btn" style="display: inline-block;" href="# ">
+                <div class="icon-search"><svg class="search-svg" xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg></div>
+            </a>
+        </div>
+
+        <script src="/js/fuse.min.js"></script> 
+        <script src="/js/fastsearch.js"></script>
+
+    </div>
+</nav>
+
+<script>
+    
+    document.addEventListener('DOMContentLoaded', function() {
+        var burger = document.querySelector('.navbar-burger');
+        burger.addEventListener('click', function() {
+            burger.classList.toggle('is-active');
+            document.querySelector('.navbar-menu').classList.toggle('is-active');
+        });
+    });
+
+    
+    function setTheme(theme) {
+        let body = document.body;
+        let themeIcon = document.querySelector(".theme-icon");
+        if (theme === "dark") {
+            body.classList.add("dark-mode");
+            themeIcon.src = "https:\/\/toukaktus.github.io\/websitesvg/moon.svg";
+            themeIcon.alt = "moon icon";
+        } else {
+            body.classList.remove("dark-mode");
+            themeIcon.src = "https:\/\/toukaktus.github.io\/websitesvg/sun.svg";
+            themeIcon.alt = "sun icon";
+        }
+        
+        localStorage.setItem("theme", theme);
+    }
+
+    
+    let theme = localStorage.getItem("theme") || "light";
+    const isDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+    if (isDarkMode) {
+        
+        setTheme('dark');
+
+    } else {
+        
+        setTheme('light');
+    }
+    setTheme(theme);
+
+    
+    document.getElementById("theme-toggle").addEventListener("click", function() {
+        if (theme === "light") {
+            theme = "dark";
+        } else {
+            theme = "light";
+        }
+        setTheme(theme);
+    });
+
+
+
+</script>
+
+</header>
+<main>
+<div class="single-container">
+    <div class="archive">
+        <h1 class="title is-1">The Power of Preparedness: Why a UPS is a Lifesaver for Home Servers</h1>
+        <div class="title subtitle heading is-6">
+            <div class="author-info columns is-vcentered">
+                <div class="column">
+                    <div class="columns is-vcentered is-mobile">
+                        
+                        <div class="column">
+                            <p>Abdulrahman Alomairah</p>
+                            <p><time>August 22, 2023</time>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <div class="small-categories-container">
+                    
+                </div>
+            </div>
+        </div>
+        <div class="content article-content">
+            <div class="toc-container">
+                
+    <div class="post-toc">
+        
+            <aside>
+                <button id="tocButton" ><h4 id="contents" style="margin-left: 1vw;color:rgb(96, 134, 180);margin-bottom: 0;">CONTENTS</h4></button>
+                <div id="hide"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#the-power-of-preparedness-why-a-ups-is-a-lifesaver-for-home-servers">The Power of Preparedness: Why a UPS is a Lifesaver for Home Servers</a>
+      <ul>
+        <li><a href="#power-outages-the-uninvited-guests">Power Outages: The Uninvited Guests</a></li>
+        <li><a href="#the-dreaded-aftermath">The Dreaded Aftermath</a></li>
+        <li><a href="#the-grub-woes-and-fstab-fiasco">The Grub Woes and Fstab Fiasco</a></li>
+        <li><a href="#enter-the-hero-uninterruptible-power-supply-ups">Enter the Hero: Uninterruptible Power Supply (UPS)</a></li>
+        <li><a href="#lessons-learned-and-silver-linings">Lessons Learned and Silver Linings</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav></div>
+            </aside>
+        
+    </div><script>
+    
+        let button = document.getElementById('tocButton');
+        let hide = document.getElementById("hide");
+        let contents=document.getElementById("contents");
+        button.addEventListener("click", function() {
+        if (hide.style.display!='block') {
+            hide.style.display='block'
+        } else {
+            hide.style.display='none'
+            contents.style.color='rgb(96, 134, 180)'
+        }
+        });
+    
+
+
+
+
+</script>
+            </div>
+            <h2 id="the-power-of-preparedness-why-a-ups-is-a-lifesaver-for-home-servers">The Power of Preparedness: Why a UPS is a Lifesaver for Home Servers</h2>
+<p><em>Lessons from a Power Outage Misadventure</em></p>
+<p>We&rsquo;ve all heard the saying, <em>&ldquo;With great power comes great responsibility.&quot;</em> But what about, <em>&ldquo;With great server hosting comes great problems&rdquo;?</em> As home server enthusiasts, we embark on a journey filled with excitement and challenges, seeking the thrill of managing our own services. However, yesterday&rsquo;s power outage served as a poignant reminder that hosting our own services also means hosting our own problems. Enter the unsung hero of the day: the Uninterruptible Power Supply (UPS).</p>
+<h3 id="power-outages-the-uninvited-guests">Power Outages: The Uninvited Guests</h3>
+<p>Imagine this: you&rsquo;ve invested your time and effort into setting up a home server, meticulously configuring each aspect to cater to your needs. Your website, file server, or perhaps a game server is running like a well-oiled machine. Then, out of nowhere, the lights flicker and darkness envelops your once-bustling server room. Power outage – the uninvited guest that can wreak havoc on your digital oasis.</p>
+<h3 id="the-dreaded-aftermath">The Dreaded Aftermath</h3>
+<p>Yesterday, I found myself in this exact situation. A sudden power outage brought my carefully crafted server setup crashing down. When the power finally returned, so did the dread. My server booted up, but something was off. The boot options were corrupted, and chaos reigned. It was as if my server&rsquo;s operating system was suffering from a bad hangover – sluggish, confused, and anything but functional.</p>
+<h3 id="the-grub-woes-and-fstab-fiasco">The Grub Woes and Fstab Fiasco</h3>
+<p>After some investigation, I realized that the power interruption had jolted the system in ways I hadn&rsquo;t anticipated. The boot options were tangled up, and the <code>grub</code> configuration had gone awry. To make matters worse, the <code>/etc/fstab</code> file, responsible for mounting file systems at boot, was playing hard to get. It was a classic case of <em>&ldquo;when you host your own services, you host your own problems.&quot;</em></p>
+<h3 id="enter-the-hero-uninterruptible-power-supply-ups">Enter the Hero: Uninterruptible Power Supply (UPS)</h3>
+<p>In this dire situation, the UPS came to the rescue – the unsung hero that saved the day. An Uninterruptible Power Supply is like a digital knight in shining armor. It stands between your server and the unpredictable nature of electricity supply. When a power outage strikes, the UPS seamlessly takes over, offering a few precious minutes to gracefully shut down your server rather than yanking the power out abruptly.</p>
+<h3 id="lessons-learned-and-silver-linings">Lessons Learned and Silver Linings</h3>
+<p>As frustrating as the power outage experience was, it served as a valuable lesson. It underscored the importance of being prepared for the unexpected when running your own home server. A UPS might seem like an afterthought, but it can be the difference between a minor hiccup and a major catastrophe. While we might joke that <em>&ldquo;when you host your own services, you host your own problems,&quot;</em> it&rsquo;s crucial to remember that we also have the power to mitigate those problems through thoughtful planning and the right tools.</p>
+<p>So, fellow server enthusiasts, take it from someone who learned the hard way – invest in a reliable UPS for your home server setup. You&rsquo;ll be thanking yourself when the lights go out, and your server stays online, ready to face another day of hosting with resilience and grace.</p>
+
+        </div>
+    </div>
+    <a href="#" id="scrollToTopButton">
+        <svg t="1686753152588" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg"
+            p-id="3988" width="48" height="48">
+            <path
+                d="M518.5 360.3c-3.2-4.4-9.7-4.4-12.9 0l-178 246c-3.8 5.3 0 12.7 6.5 12.7H381c10.2 0 19.9-4.9 25.9-13.2L512 460.4l105.2 145.4c6 8.3 15.6 13.2 25.9 13.2H690c6.5 0 10.3-7.4 6.5-12.7l-178-246z"
+                p-id="3989" fill="#363636"></path>
+            <path
+                d="M512 64C264.6 64 64 264.6 64 512s200.6 448 448 448 448-200.6 448-448S759.4 64 512 64z m0 820c-205.4 0-372-166.6-372-372s166.6-372 372-372 372 166.6 372 372-166.6 372-372 372z"
+                p-id="3990" fill="#363636"></path>
+        </svg>
+    </a>
+
+<div class="pp-container">
+        <section class="pre-and-post">
+            <div class="has-text-left">
+                
+                <p>Previous post</p>
+                <a href="https://toukaktus.github.io/website/post/nixos/">NixOS: Revolutionizing Linux through Reproducibility and Unbreakable Configuration</a>
+                
+            </div>
+            <div class="has-text-right">
+                
+            </div>
+        </section>
+    </div>
+
+</div>
+
+        </main><footer class="footer">
+    <div class="content has-text-centered">
+    <span>&copy; 2023 <a href="https://toukaktus.github.io/website">My Personal Site</a></span>
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" target="_blank">Hugo</a> &
+        <a href="https://github.com/hotjuicew/hugo-JuiceBar" target="_blank">JuiceBar</a>
+    </span>
+    </div>
+  </footer></body>
+</html>
+
