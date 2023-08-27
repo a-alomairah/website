@@ -1,29 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Galleries on My Personal Site</title>
+    <title>Gallery on My Personal Site</title>
     <link>https://toukaktus.github.io/website/gallery/</link>
-    <description>Recent content in Galleries on My Personal Site</description>
+    <description>Recent content in Gallery on My Personal Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 20 Aug 2023 05:06:24 +0300</lastBuildDate><atom:link href="https://toukaktus.github.io/website/gallery/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hardware</title>
-      <link>https://toukaktus.github.io/website/gallery/hw_pics/</link>
-      <pubDate>Sun, 20 Aug 2023 05:06:24 +0300</pubDate>
-      
-      <guid>https://toukaktus.github.io/website/gallery/hw_pics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test2</title>
-      <link>https://toukaktus.github.io/website/gallery/test-gallery/</link>
-      <pubDate>Wed, 21 Aug 2002 00:00:00 +0000</pubDate>
-      
-      <guid>https://toukaktus.github.io/website/gallery/test-gallery/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://toukaktus.github.io/website/gallery/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
