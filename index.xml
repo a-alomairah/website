@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Personal Site</title>
+    <title>Abdulrahman&#39;s Website</title>
     <link>https://toukaktus.github.io/website/</link>
-    <description>Recent content on My Personal Site</description>
+    <description>Recent content on Abdulrahman&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Aug 2023 07:56:47 +0300</lastBuildDate><atom:link href="https://toukaktus.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Aug 2023 11:44:40 +0300</lastBuildDate><atom:link href="https://toukaktus.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>STC Incident Response Virtual Work Experiance</title>
+      <link>https://toukaktus.github.io/website/post/stc_incidentresponse/</link>
+      <pubDate>Mon, 28 Aug 2023 11:44:40 +0300</pubDate>
+      
+      <guid>https://toukaktus.github.io/website/post/stc_incidentresponse/</guid>
+      <description>Certificate of Completion: Virtual Work Experience in Cybersecurity Incident Response Analysis I&amp;rsquo;m thrilled to share that I&amp;rsquo;ve successfully completed a Virtual Work Experience program focused on Cybersecurity Incident Response Analysis. This immersive program provided me with invaluable insights into the world of cybersecurity and equipped me with practical skills to effectively respond to potential threats.
+Program Highlights:   Hands-on Experience: Throughout the program, I had the opportunity to work with real-world data and scenarios.</description>
+    </item>
+    
     <item>
       <title>The Power of Preparedness: Why a UPS is a Lifesaver for Home Servers</title>
       <link>https://toukaktus.github.io/website/post/ups/</link>
@@ -33,8 +43,8 @@ We&amp;rsquo;ve all heard the saying, &amp;ldquo;With great power comes great re
       
       <guid>https://toukaktus.github.io/website/contact/</guid>
       <description>Hey there! Thanks for stopping by. Feel free to get in touch with me using any of the following methods. I&amp;rsquo;m always excited to connect and collaborate.
-About Me I&amp;rsquo;m passionate about technology, coding, cybersecurity, and continuous learning. Whether you have questions, ideas, or just want to chat, I&amp;rsquo;d love to hear from you.
-Contact Information  Email: a.alomairah9@gmail.com GitHub: toukaktus LinkedIn: Abdulrahman Alomairah  Let&amp;rsquo;s Connect Feel free to send me an email or connect with me on GitHub and LinkedIn.</description>
+Contact Information  Email: a.alomairah9@gmail.com GitHub: toukaktus LinkedIn: Abdulrahman Alomairah  Let&amp;rsquo;s Connect Feel free to send me an email or connect with me on GitHub and LinkedIn. I&amp;rsquo;m open to collaborations, discussions, and sharing knowledge.
+Social Media You can also find me on other platforms:</description>
     </item>
     
     <item>
