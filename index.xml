@@ -28,15 +28,6 @@ We&amp;rsquo;ve all heard the saying, &amp;ldquo;With great power comes great re
     </item>
     
     <item>
-      <title>Hardware</title>
-      <link>https://toukaktus.github.io/website/gallery/hw_pics/</link>
-      <pubDate>Sun, 20 Aug 2023 05:06:24 +0300</pubDate>
-      
-      <guid>https://toukaktus.github.io/website/gallery/hw_pics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Contact Me</title>
       <link>https://toukaktus.github.io/website/contact/</link>
       <pubDate>Sun, 20 Aug 2023 03:57:26 +0300</pubDate>
@@ -92,15 +83,6 @@ Background and Education I hold a degree in Software Engineering, which has prov
       
       <guid>https://toukaktus.github.io/website/post/messing-around-with-stable-diffusion/</guid>
       <description>I&amp;rsquo;ve succesfully Installed Stable Diffusion on my server. I&amp;rsquo;ve been messing around with it for the past week. It&amp;rsquo;s really interesting!. The modes I have tried so far are txt2img and img2img. You can train the model yourself. you can install LORA checkpoints and many more. It would be interesting to revisit this again and explore furthermore. </description>
-    </item>
-    
-    <item>
-      <title>test2</title>
-      <link>https://toukaktus.github.io/website/gallery/test-gallery/</link>
-      <pubDate>Wed, 21 Aug 2002 00:00:00 +0000</pubDate>
-      
-      <guid>https://toukaktus.github.io/website/gallery/test-gallery/</guid>
-      <description></description>
     </item>
     
   </channel>
