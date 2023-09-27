@@ -2,96 +2,96 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abdulrahman&#39;s Website</title>
-    <link>https://toukaktus.github.io/website/</link>
+    <link>https://a-alomairah.github.io/website/</link>
     <description>Recent content on Abdulrahman&#39;s Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Sep 2023 22:22:41 +0300</lastBuildDate><atom:link href="https://toukaktus.github.io/website/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Sep 2023 22:22:41 +0300</lastBuildDate><atom:link href="https://a-alomairah.github.io/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Journey to eJPTv2 Certification</title>
-      <link>https://toukaktus.github.io/website/post/ejptv2/</link>
+      <link>https://a-alomairah.github.io/website/post/ejptv2/</link>
       <pubDate>Fri, 08 Sep 2023 22:22:41 +0300</pubDate>
       
-      <guid>https://toukaktus.github.io/website/post/ejptv2/</guid>
+      <guid>https://a-alomairah.github.io/website/post/ejptv2/</guid>
       <description>I&amp;rsquo;ve always had a fascination with penetration testing, information gathering, and enumeration. There&amp;rsquo;s something thrilling about delving into the intricacies of a system, discovering its vulnerabilities, and ultimately strengthening its defenses. But for me, it&amp;rsquo;s more than just a passion; it&amp;rsquo;s a way of life.
 Embracing Control and Privacy One of the driving forces behind my interest in penetration testing is my love for self-hosting personal services. I&amp;rsquo;m a firm believer in having control over my data and privacy.</description>
     </item>
     
     <item>
       <title>STC Incident Response Virtual Work Experiance</title>
-      <link>https://toukaktus.github.io/website/post/stc_incidentresponse/</link>
+      <link>https://a-alomairah.github.io/website/post/stc_incidentresponse/</link>
       <pubDate>Mon, 28 Aug 2023 11:44:40 +0300</pubDate>
       
-      <guid>https://toukaktus.github.io/website/post/stc_incidentresponse/</guid>
+      <guid>https://a-alomairah.github.io/website/post/stc_incidentresponse/</guid>
       <description>Certificate of Completion: Virtual Work Experience in Cybersecurity Incident Response Analysis I&amp;rsquo;m thrilled to share that I&amp;rsquo;ve successfully completed a Virtual Work Experience program focused on Cybersecurity Incident Response Analysis. This immersive program provided me with invaluable insights into the world of cybersecurity and equipped me with practical skills to effectively respond to potential threats.
 Program Highlights:   Hands-on Experience: Throughout the program, I had the opportunity to work with real-world data and scenarios.</description>
     </item>
     
     <item>
       <title>The Power of Preparedness: Why a UPS is a Lifesaver for Home Servers</title>
-      <link>https://toukaktus.github.io/website/post/ups/</link>
+      <link>https://a-alomairah.github.io/website/post/ups/</link>
       <pubDate>Tue, 22 Aug 2023 07:56:47 +0300</pubDate>
       
-      <guid>https://toukaktus.github.io/website/post/ups/</guid>
+      <guid>https://a-alomairah.github.io/website/post/ups/</guid>
       <description>The Power of Preparedness: Why a UPS is a Lifesaver for Home Servers Lessons from a Power Outage Misadventure
 We&amp;rsquo;ve all heard the saying, &amp;ldquo;With great power comes great responsibility.&amp;quot; But what about, &amp;ldquo;With great server hosting comes great problems&amp;rdquo;? As home server enthusiasts, we embark on a journey filled with excitement and challenges, seeking the thrill of managing our own services. However, yesterday&amp;rsquo;s power outage served as a poignant reminder that hosting our own services also means hosting our own problems.</description>
     </item>
     
     <item>
       <title>Contact Me</title>
-      <link>https://toukaktus.github.io/website/contact/</link>
+      <link>https://a-alomairah.github.io/website/contact/</link>
       <pubDate>Sun, 20 Aug 2023 03:57:26 +0300</pubDate>
       
-      <guid>https://toukaktus.github.io/website/contact/</guid>
+      <guid>https://a-alomairah.github.io/website/contact/</guid>
       <description>Hey there! Thanks for stopping by. Feel free to get in touch with me using any of the following methods. I&amp;rsquo;m always excited to connect and collaborate.
-Contact Information  Email: a.alomairah9@gmail.com GitHub: toukaktus LinkedIn: Abdulrahman Alomairah  Let&amp;rsquo;s Connect Feel free to send me an email or connect with me on GitHub and LinkedIn. I&amp;rsquo;m open to collaborations, discussions, and sharing knowledge.
+Contact Information  Email: a.alomairah9@gmail.com GitHub: a-alomairah LinkedIn: Abdulrahman Alomairah  Let&amp;rsquo;s Connect Feel free to send me an email or connect with me on GitHub and LinkedIn. I&amp;rsquo;m open to collaborations, discussions, and sharing knowledge.
 Social Media You can also find me on other platforms:</description>
     </item>
     
     <item>
       <title>NixOS: Revolutionizing Linux through Reproducibility and Unbreakable Configuration</title>
-      <link>https://toukaktus.github.io/website/post/nixos/</link>
+      <link>https://a-alomairah.github.io/website/post/nixos/</link>
       <pubDate>Sun, 20 Aug 2023 00:51:04 +0300</pubDate>
       
-      <guid>https://toukaktus.github.io/website/post/nixos/</guid>
+      <guid>https://a-alomairah.github.io/website/post/nixos/</guid>
       <description>In the vast realm of Linux distributions, NixOS emerges as a game-changer, defying conventional practices with its novel approach to system configuration and package management. It champions declarative configuration, ensuring atomic upgrades, and employs content-addressable package management for unparalleled reproducibility and system integrity.
 Declarative Configuration for Unbreakable Systems At the core of NixOS lies the concept of declarative system configuration. This paradigm shift empowers users to define their system&amp;rsquo;s desired state using a single configuration file.</description>
     </item>
     
     <item>
       <title>About Me</title>
-      <link>https://toukaktus.github.io/website/about/</link>
+      <link>https://a-alomairah.github.io/website/about/</link>
       <pubDate>Thu, 17 Aug 2023 16:39:01 +0300</pubDate>
       
-      <guid>https://toukaktus.github.io/website/about/</guid>
+      <guid>https://a-alomairah.github.io/website/about/</guid>
       <description>Hello there! 👋 I&amp;rsquo;m Abdulrahman Alomairah, a passionate software engineer with a strong interest in open-source projects and cybersecurity. With a background in software engineering and a thirst for knowledge, I&amp;rsquo;ve delved into various aspects of the tech world, honing my skills and expertise along the way.
 Background and Education I hold a degree in Software Engineering, which has provided me with a solid foundation in designing, developing, and maintaining software solutions.</description>
     </item>
     
     <item>
       <title>My First CTF Style LAB</title>
-      <link>https://toukaktus.github.io/website/post/my-first-ctf-style-lab/</link>
+      <link>https://a-alomairah.github.io/website/post/my-first-ctf-style-lab/</link>
       <pubDate>Mon, 24 Jul 2023 21:09:08 +0300</pubDate>
       
-      <guid>https://toukaktus.github.io/website/post/my-first-ctf-style-lab/</guid>
+      <guid>https://a-alomairah.github.io/website/post/my-first-ctf-style-lab/</guid>
       <description>On 10:09 PM the 24th of July 2023. I was solving a LAB related to my Penetration Testing Student (PTS) course. After exploiting a vulnerablitiy in a windows machine, I have found my first flag.txt file in a simulated environment. It made me happy. From that point onwards, I think the field of Cybersecurity might be really interesting to me. </description>
     </item>
     
     <item>
       <title>Audio over GIFs</title>
-      <link>https://toukaktus.github.io/website/post/twtaudio/</link>
+      <link>https://a-alomairah.github.io/website/post/twtaudio/</link>
       <pubDate>Wed, 19 Jul 2023 23:46:17 +0300</pubDate>
       
-      <guid>https://toukaktus.github.io/website/post/twtaudio/</guid>
+      <guid>https://a-alomairah.github.io/website/post/twtaudio/</guid>
       <description>For multiple reasons, I decided to code my own Bash script that records your microphone and then it plays it over a GIF loop for the entire duration of the audio. This is to be able to send it as a .mp4 video. The reasons behind that is that as an Andriod user, Apps like Twitter (X) don&amp;rsquo;t implement features to Andriod users like the Audio tweet. Yes! This was my main motivation for this code.</description>
     </item>
     
     <item>
       <title>Messing Around With Stable Diffusion</title>
-      <link>https://toukaktus.github.io/website/post/messing-around-with-stable-diffusion/</link>
+      <link>https://a-alomairah.github.io/website/post/messing-around-with-stable-diffusion/</link>
       <pubDate>Sat, 15 Jul 2023 23:27:43 +0300</pubDate>
       
-      <guid>https://toukaktus.github.io/website/post/messing-around-with-stable-diffusion/</guid>
+      <guid>https://a-alomairah.github.io/website/post/messing-around-with-stable-diffusion/</guid>
       <description>I&amp;rsquo;ve succesfully Installed Stable Diffusion on my server. I&amp;rsquo;ve been messing around with it for the past week. It&amp;rsquo;s really interesting!. The modes I have tried so far are txt2img and img2img. You can train the model yourself. you can install LORA checkpoints and many more. It would be interesting to revisit this again and explore furthermore. </description>
     </item>
     
